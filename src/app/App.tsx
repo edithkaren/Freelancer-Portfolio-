@@ -43,7 +43,7 @@ const SERVICES = [
 const PROJECTS = [
   {
     title: "Avraksh- Startup Portfolio ",
-    desc: "An AI Based startup agency portfolio, automated reporting, and intelligent insights for SaaS businesses.",
+    desc: "An AI-Based startup agency portfolio, automated reporting, and intelligent insights for SaaS businesses.",
     image: "F:/techrudra/freelancing-portfolio/img/animatedportfolio.png",
     tech: ["Next.js", "TypeScript", "OpenAI", "PostgreSQL", "Tailwind CSS"],
     live: "https://animated-portfolio-rp.vercel.app/",
@@ -427,8 +427,8 @@ function ContactModal({ open, onClose }: { open: boolean; onClose: () => void })
 
                     <p className="text-center text-xs font-code" style={{ color: "#475569" }}>
                       Or email directly:{" "}
-                      <a href="mailto:hello@techrudra.ai" style={{ color: "#06b6d4" }} className="hover:underline">
-                        hello@techrudra.ai
+                      <a href="mailto:avrakshai2604@gmail.com" style={{ color: "#06b6d4" }} className="hover:underline">
+                        avrakshai2604@gmail.com
                       </a>
                     </p>
                   </form>
