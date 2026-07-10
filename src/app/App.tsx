@@ -136,12 +136,12 @@ const BENEFITS = [
 ];
 
 const SOCIALS = [
-  { name: "GitHub",    icon: () => <Github size={20} />,    url: "#", accent: "#e2e8f0", glow: "rgba(226,232,240,0.15)" },
-  { name: "LinkedIn",  icon: () => <Linkedin size={20} />,  url: "#", accent: "#60a5fa", glow: "rgba(96,165,250,0.15)" },
-  { name: "Instagram", icon: () => <Instagram size={20} />, url: "#", accent: "#f472b6", glow: "rgba(244,114,182,0.15)" },
+  { name: "GitHub",    icon: () => <Github size={20} />,    url: "https://github.com/edithkaren", accent: "#e2e8f0", glow: "rgba(226,232,240,0.15)" },
+  { name: "LinkedIn",  icon: () => <Linkedin size={20} />,  url: "https://linkedin.com/in/rudraksh-paliwal-316b7818b", accent: "#60a5fa", glow: "rgba(96,165,250,0.15)" },
+  { name: "Instagram", icon: () => <Instagram size={20} />, url: "https://instagram.com/techrudra.ai", accent: "#f472b6", glow: "rgba(244,114,182,0.15)" },
   { name: "Twitter",   icon: () => <XIcon />,               url: "#", accent: "#38bdf8", glow: "rgba(56,189,248,0.15)" },
-  { name: "Vercel",    icon: () => <VercelIcon />,           url: "#", accent: "#e2e8f0", glow: "rgba(226,232,240,0.15)" },
-  { name: "Contra",    icon: () => <ContraIcon />,           url: "#", accent: "#fb923c", glow: "rgba(251,146,60,0.15)" },
+  { name: "Vercel",    icon: () => <VercelIcon />,           url: "https://vercel.com/edithkarens-projects/", accent: "#e2e8f0", glow: "rgba(226,232,240,0.15)" },
+  { name: "Contra",    icon: () => <ContraIcon />,           url: "https://contra.com/community/profile/rudraksh_paliwal_fwt7kk88", accent: "#fb923c", glow: "rgba(251,146,60,0.15)" },
 ];
 
 // ── Shared UI helpers ─────────────────────────────────────────────────────────
