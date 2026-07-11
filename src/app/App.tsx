@@ -1,3 +1,4 @@
+import {Analytics} from "@vercel/analytics/next";
 import { useState, useEffect, useRef } from "react";
 import { motion, useInView, AnimatePresence } from "motion/react";
 import {
